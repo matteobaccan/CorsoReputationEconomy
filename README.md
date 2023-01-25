@@ -13,3 +13,5 @@ Cosa imparerai in questo corso?
 In questo corso imparerai i concetti di base di una Reputation Economy, quali sono gli aspetti di cui tenere conto e di come la reputazione ormai è quello che dice la rete di te.
 
 Siamo pronti a cominciare? Allora via!
+
+[![Genera PDF](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml)
