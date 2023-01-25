@@ -188,8 +188,6 @@ In Europa, questo diritto è stato introdotto dalla Corte di Giustizia dell'Unio
 <https://www.youtube.com/watch?v=6Dxm4pn09AQ> : Evento sulla reputation economy
 <https://chat.openai.com> : ChatGPT
 
-Ogni immagine inserita riporta la fonte
-
 ---
 
 ## Disclaimer
