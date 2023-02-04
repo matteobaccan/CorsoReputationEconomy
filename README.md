@@ -1,5 +1,7 @@
 # Reputation Economy
 
+[![Genera PDF](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml)
+
 Benvenuti al corso di Reputation Economy
 
 In questo corso imparerai l'importanza della Reputation Economy. Capirai come funziona una reputazione economica e come è possibile sfruttare le tue conoscenze per raggiungere successo e ricchezza.
@@ -13,5 +15,3 @@ Cosa imparerai in questo corso?
 In questo corso imparerai i concetti di base di una Reputation Economy, quali sono gli aspetti di cui tenere conto e di come la reputazione ormai è quello che dice la rete di te.
 
 Siamo pronti a cominciare? Allora via!
-
-[![Genera PDF](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml/badge.svg)](https://github.com/matteobaccan/CorsoReputationEconomy/actions/workflows/generatepdf.yml)
